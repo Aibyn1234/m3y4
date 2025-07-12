@@ -20,15 +20,7 @@
 
 | Добавление проекта |
 |--------------------|
-| ![add](screenshots/add_project.png)
+| ![add](1.png)
+| ![add](2.png)
+| ![add](3.png)
 
----
-
-## ⚙️ Установка и запуск
-
-> Убедитесь, что у вас установлен Python 3.10+
-
-1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/username/bot-portfolio.git
-cd bot-portfolio
